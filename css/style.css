@@ -423,9 +423,6 @@ position: relative;
     justify-content: center;
     align-items: center;
     padding: 0px;
-  /* margin-top: 16px; */
-    /* padding-left: 32px;
-    padding-right: 32px; */
     gap:10px
 }
 
@@ -478,7 +475,7 @@ position: relative;
         height:92px;
         outline: none;
        color: var(--color-client-icon);
-        transition-duration: 1250ms;
+        transition-duration: 250ms;
         transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
        
 }
